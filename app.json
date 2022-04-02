@@ -1,10 +1,10 @@
 {
   "name": "VPS BY RAMAOT",
   "description": "Deploy to Heroku.",
-  "keywords": ["VNC", "Docker", "RAMAOT"],
+  "keywords": ["VNC", "Docker"],
   "env": {
   },
-  "website": "teamurban.ml",
+  "website": "",
   "repository": "",
   "stack": "container"
  }
